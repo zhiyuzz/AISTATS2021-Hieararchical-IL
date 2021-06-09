@@ -1,4 +1,4 @@
-Code for the paper Provable Hierarchical Imitation Learning via EM
+Code for the paper "Provable Hierarchical Imitation Learning via EM" @ AISTATS 2021
 
 The code is based on MATLAB R2020a, and Parallel Computing Toolbox is required. 
 
